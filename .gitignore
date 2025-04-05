@@ -1,0 +1,6 @@
+.venv
+cache/
+ARCH/
+*.ipynb
+msi2-lab01.html
+*.pyc
